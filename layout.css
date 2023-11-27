@@ -1,0 +1,38 @@
+@media (min-width: 800px) {
+  .nav_links a {
+    font-size: 1.5rem;
+  }
+
+  h1 {
+    font-size: 5rem;
+  }
+
+  a {
+    font-size: 7rem;
+  }
+
+  p {
+    font-size: 2rem;
+  }
+
+  .logo-text {
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+
+  .logo {
+    font-size: 3.5rem;
+  }
+
+  .grid_col {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+  }
+
+  .grid_col_1 h2 {
+    font-size: 5rem;
+    margin: 20px;
+    display: grid;
+    place-items: center;
+  }
+}
